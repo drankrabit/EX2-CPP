@@ -1,3 +1,6 @@
+// ID: 326538022
+// Email: itay.alexandrov@gmail.com
+
 #ifndef ALGORITHMS_HPP
 #define ALGORITHMS_HPP
 
