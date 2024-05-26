@@ -147,6 +147,6 @@ Helper Functions:
 
 Division of Code:
 -------------------------
-Graph Class:
-    Graph.hpp: Header file containing the declaration of the Graph class.
-    Graph.cpp: Source file containing the implementation of the Graph class.
+1. Graph Class:
+    - Graph.hpp: Header file containing the declaration of the Graph class.
+    - Graph.cpp: Source file containing the implementation of the Graph class.
